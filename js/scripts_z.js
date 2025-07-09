@@ -32,7 +32,7 @@
 							window.location.href = 'https://perryjohnsonleon.github.io/michael/index_z.htm' ;
 							break;
 					  case "-1": 
-							window.location.href = 'https://perryjohnsonleon.github.io/exercise' ;
+							window.location.href = 'https://perryjohnsonleon.github.io/michael' ;
 							break;
                   case "0": 
                      width = 100;
