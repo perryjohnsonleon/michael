@@ -11,25 +11,25 @@
           function refreshTime() {
              switch ( $(this).val()) {
 					  case "A": 
-							window.location.href = 'https://perryjohnsonleon.github.io/exercise/index_a.htm' ;
+							window.location.href = 'https://perryjohnsonleon.github.io/michael/index_a.htm' ;
 							break;
 					  case "B":
-							window.location.href = 'https://perryjohnsonleon.github.io/exercise/index_b.htm'	;
+							window.location.href = 'https://perryjohnsonleon.github.io/michael/index_b.htm'	;
 							break;
 					  case "C": 
-							window.location.href = 'https://perryjohnsonleon.github.io/exercise/index_c.htm' ;
+							window.location.href = 'https://perryjohnsonleon.github.io/michael/index_c.htm' ;
 							break;
 					  case "D": 
-							window.location.href = 'https://perryjohnsonleon.github.io/exercise/index_d.htm' ;
+							window.location.href = 'https://perryjohnsonleon.github.io/michael/index_d.htm' ;
 							break;
 					  case "E": 
-							window.location.href = 'https://perryjohnsonleon.github.io/exercise/index_e.htm' ;
+							window.location.href = 'https://perryjohnsonleon.github.io/michael/index_e.htm' ;
 							break;
 					  case "F": 
-							window.location.href = 'https://perryjohnsonleon.github.io/exercise/index_f.htm' ;
+							window.location.href = 'https://perryjohnsonleon.github.io/michael/index_f.htm' ;
 							break;
 					  case "Z": 
-							window.location.href = 'https://perryjohnsonleon.github.io/exercise/index_z.htm' ;
+							window.location.href = 'https://perryjohnsonleon.github.io/michael/index_z.htm' ;
 							break;
 					  case "-1": 
 							window.location.href = 'https://perryjohnsonleon.github.io/exercise' ;
@@ -90,7 +90,7 @@
               element1.style.width = width + '%'; 
             } 
                
-          $.getJSON('https://ws.api.cnyes.com/ws/api/v1/charting/history?resolution=1&symbol=TWS:1102:STOCK&quote=1',function(data){
+          $.getJSON('https://ws.api.cnyes.com/ws/api/v1/charting/history?resolution=1&symbol=TWS:2330:STOCK&quote=1',function(data){
               // console.log('success');
             $.each(data,function(key1,item1){
                if (key1 === 'data') {
