@@ -14,22 +14,22 @@
    function refreshTime() {
              switch ( $(this).val()) {
 					  case "A": 
-							window.location.href = 'https://perryjohnsonleon.github.io/tutorial2/index_a.htm' ;
+							window.location.href = 'https://perryjohnsonleon.github.io/michael/index_a.htm' ;
 							break;
 					  case "B":
-							window.location.href = 'https://perryjohnsonleon.github.io/tutorial2/index_b.htm'	;
+							window.location.href = 'https://perryjohnsonleon.github.io/michael/index_b.htm'	;
 							break;
 					  case "C": 
-							window.location.href = 'https://perryjohnsonleon.github.io/tutorial2/index_c.htm' ;
+							window.location.href = 'https://perryjohnsonleon.github.io/michael/index_c.htm' ;
 							break;
 					  case "D": 
-							window.location.href = 'https://perryjohnsonleon.github.io/tutorial2/index_d.htm' ;
+							window.location.href = 'https://perryjohnsonleon.github.io/michael/index_d.htm' ;
 							break;
 					  case "E": 
-							window.location.href = 'https://perryjohnsonleon.github.io/tutorial2/index_e.htm' ;
+							window.location.href = 'https://perryjohnsonleon.github.io/michael/index_e.htm' ;
 							break;
 					  case "F": 
-							window.location.href = 'https://perryjohnsonleon.github.io/tutorial2/index_f.htm' ;
+							window.location.href = 'https://perryjohnsonleon.github.io/michael/index_f.htm' ;
 							break;
 					  case "W": 
 							window.location.href = 'https://perryjohnsonleon.github.io/exercise2/index_w.htm' ;
@@ -38,16 +38,16 @@
 							window.location.href = 'https://perryjohnsonleon.github.io/exercise2/index_x.htm' ;
 							break;
 					  case "Z": 
-							window.location.href = 'https://perryjohnsonleon.github.io/tutorial2/index_z.htm' ;
+							window.location.href = 'https://perryjohnsonleon.github.io/michael/index_z.htm' ;
 							break;
 					  case "K": 
-							window.location.href = 'https://perryjohnsonleon.github.io/tutorial2/index_k.htm' ;
+							window.location.href = 'https://perryjohnsonleon.github.io/michael/index_k.htm' ;
 							break;
 					  case "Q": 
-							window.location.href = 'https://perryjohnsonleon.github.io/tutorial2/index_q.htm' ;
+							window.location.href = 'https://perryjohnsonleon.github.io/michael/index_q.htm' ;
 							break;
 					  case "P": 
-							window.location.href = 'https://perryjohnsonleon.github.io/tutorial2/graph.htm' ;
+							window.location.href = 'https://perryjohnsonleon.github.io/michael/graph.htm' ;
 							break;
 					  case "-1": 
 							window.location.href = 'https://perryjohnsonleon.github.io/exercise' ;

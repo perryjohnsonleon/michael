@@ -20,25 +20,25 @@ const element1 = document.getElementById("myBar1");
   function refreshTime() {
              switch ( $(this).val()) {
 					  case "A": 
-							window.location.href = 'https://perryjohnsonleon.github.io/exercise/index_a.htm' ;
+							window.location.href = 'https://perryjohnsonleon.github.io/michael/index_a.htm' ;
 							break;
 					  case "B":
-							window.location.href = 'https://perryjohnsonleon.github.io/exercise/index_b.htm'	;
+							window.location.href = 'https://perryjohnsonleon.github.io/michael/index_b.htm'	;
 							break;
 					  case "C": 
-							window.location.href = 'https://perryjohnsonleon.github.io/exercise/index_c.htm' ;
+							window.location.href = 'https://perryjohnsonleon.github.io/michael/index_c.htm' ;
 							break;
 					  case "D": 
-							window.location.href = 'https://perryjohnsonleon.github.io/exercise/index_d.htm' ;
+							window.location.href = 'https://perryjohnsonleon.github.io/michael/index_d.htm' ;
 							break;
 					  case "E": 
-							window.location.href = 'https://perryjohnsonleon.github.io/exercise/index_e.htm' ;
+							window.location.href = 'https://perryjohnsonleon.github.io/michael/index_e.htm' ;
 							break;
 					  case "F": 
-							window.location.href = 'https://perryjohnsonleon.github.io/exercise/index_f.htm' ;
+							window.location.href = 'https://perryjohnsonleon.github.io/michael/index_f.htm' ;
 							break;
 					  case "Z": 
-							window.location.href = 'https://perryjohnsonleon.github.io/exercise/index_z.htm' ;
+							window.location.href = 'https://perryjohnsonleon.github.io/michael/index_z.htm' ;
 							break;
                       case "0": 
                            width = 100;
